@@ -1,6 +1,6 @@
 Keymap (Windows Users):
 [
-	{ "keys": ["alt+shift+f"], "command": "reindent" },
+	{ "keys": ["alt+shift+x"], "command": "reindent" },
 ]
 
 Settings:
